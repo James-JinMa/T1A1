@@ -55,7 +55,7 @@ Q3A
 https://en.wikipedia.org/wiki/Transmission_Control_Protocol
 
 - HTTP and HTTPS: HTTP(Hyper Text Transfer Protocol). Communication between client computers and web servers is done by sending HTTP Requests and receiving HTTP Responses. HTTPS(Hypertext Transfer Protocol Secure). It is used for secure communication over a computer network. 
-Different: https://www.globalsign.com/en/blog/the-difference-between-http-and-https
+<a href="https://www.globalsign.com/en/blog/the-difference-between-http-and-https" target="_blank">Different</a>
 
 - web browsers: a application for you to accessing information for WWW. When you requests a website, the browser will get the information from server and display in your device. 
 https://www.mozilla.org/en-US/firefox/browsers/what-is-a-browser/
